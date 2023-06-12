@@ -1,0 +1,15 @@
+:root{
+    --textbg: #2F2E7C;
+    --textcolor: #fff;
+}
+
+footer {
+    display: flex;
+    background-color: var(--textbg);
+    padding: 1rem 2rem;
+}
+
+h3 {
+    margin-right: 1rem;
+    color: var(--textcolor);
+}
